@@ -1,0 +1,12 @@
+.navbar-header {
+  height: 100px;
+}
+
+.navbar-brand {
+  float: left;
+  clear: right;
+}
+
+ p {
+  background-color: lightgray;
+}
